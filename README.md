@@ -1,1 +1,1 @@
-# CAFA5-Protein-Function-Prediction
+# Multi-label-Protein-Function-Prediction
