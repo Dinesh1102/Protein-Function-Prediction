@@ -1,0 +1,10 @@
+tensorflow
+sentencepiece
+numpy
+pandas
+torch
+transformers
+obonet
+pyvis
+biopython
+gradio
