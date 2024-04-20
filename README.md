@@ -13,6 +13,10 @@
 
 `example.fasta`: Example fasta file
 
+`gradio.py`: Used in hugging face to create an interface
+
+`requirements.txt`: Libraries and packages needed 
+
 ## How to test the code: 
 ### Download the multi-label-protein-function-prediction.ipynb notebook open it in kaggle(prefered) or google colab(don't forget to change the dataset paths to avoid errors) ,load the datasets and run the cells you should see the model training.
 ### Alternatively just click the link: https://www.kaggle.com/code/yashvashistha1/ci-project-9d6654
