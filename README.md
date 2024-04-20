@@ -13,7 +13,7 @@
 
 `example.fasta`: Example fasta file
 
-`gradio.py`: Used in hugging face to create an interface
+`interface.py`: Used in hugging face to create an interface
 
 `requirements.txt`: Libraries and packages needed 
 
