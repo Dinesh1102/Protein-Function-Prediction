@@ -7,7 +7,7 @@
 ## Files description:
 `multi-label-protein-function-prediction.ipynb`: Notebook to train the model and run inference
 
-`sequence_from_fasta.ipynb`: Helper notebook to extact protein sequence from a fasta file
+`sequence_from_fasta.ipynb`: Helper notebook to extract protein sequence from a fasta file
 
 `labels.csv`: Labels extracted from the dataset
 
